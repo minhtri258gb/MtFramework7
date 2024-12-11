@@ -1,0 +1,10 @@
+{
+  "appId": "com.massan258.fw7",
+  "appName": "MtMobile",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
